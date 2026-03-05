@@ -22,10 +22,6 @@ pip install -r requirements.txt
 
 ```bash
 cp .env.example .env
-# Edit .env and add your Gemini API key:
-# GEMINI_API_KEY=AIza...
-# Get a free key at: https://aistudio.google.com/app/apikey
-```
 
 ### 3. Run
 
